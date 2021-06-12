@@ -36,10 +36,6 @@
             }
         }
     },
-    "require": {
-        "kreait/firebase-php": "^5.2",
-        "php": ">=5.3.0"
-    },
     "minimum-stability": "dev",
     "prefer-stable": true
 }
