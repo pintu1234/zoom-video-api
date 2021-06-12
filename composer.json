@@ -3,13 +3,13 @@
     "description": "zoom metting",
     "keywords": ["gaurav", "gaurav-zoom", "zoom", "laravel"],
     "license": "MIT",
-    "homepage": "https://github.com/pintu1234/hcbstech-video-api",
+    "homepage": "https://github.com/pintu1234/zoom-video-api.git",
     "type": "library",
     "authors": [
         {
             "name": "gvp7003",
             "email": "gvp7003@gmail.com",
-            "homepage": "https://github.com/pintu1234/hcbstech-video-api",
+            "homepage": "https://github.com/pintu1234/zoom-video-api.git",
             "role": "Developer"
         }
     ],
