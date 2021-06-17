@@ -14,7 +14,7 @@
         }
     ],
     "require": {
-        "pintu1234/zoom-video-api": "v1.0@stable",
+        "pintu1234/zoom-video-api": "*",
         "php": "^5.6|^7.1|^8.0",
         "illuminate/support": "^5.2|^6.0|^7.0|^8.0",
         "vonage/client": "^2.0",
@@ -45,7 +45,5 @@
                 "Hcbszoom": "Zoom"
             }
         }
-    },
-    "minimum-stability": "stable",
-    "prefer-stable": true
+    }
 }
