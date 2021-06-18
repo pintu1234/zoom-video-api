@@ -36,5 +36,9 @@
             }
         }
     },
+<<<<<<< HEAD
     "prefer-stable": true
+=======
+    "minimum-stability": "dev"
+>>>>>>> 981925556e32e4d4c6521ac9769f9aa4a2a7c5fa
 }
