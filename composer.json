@@ -28,5 +28,6 @@
                 "Hcbszoom": "Zoom"
             }
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
