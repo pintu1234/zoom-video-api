@@ -150,7 +150,6 @@ class ComposerStaticInitb511b141838329fd8816e119958155a8
         ),
         'H' => 
         array (
-            'Hcbszoom\\Zoom\\Tests\\' => 20,
             'Hcbszoom\\Zoom\\' => 14,
         ),
         'G' => 
@@ -465,10 +464,6 @@ class ComposerStaticInitb511b141838329fd8816e119958155a8
         'Illuminate\\' => 
         array (
             0 => __DIR__ . '/..' . '/laravel/framework/src/Illuminate',
-        ),
-        'Hcbszoom\\Zoom\\Tests\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/tests',
         ),
         'Hcbszoom\\Zoom\\' => 
         array (
