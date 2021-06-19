@@ -3,17 +3,15 @@
     "description": "zoom metting",
     "keywords": ["gaurav", "gaurav-zoom", "zoom", "laravel"],
     "license": "MIT",
-    "homepage": "https://github.com/pintu1234/zoom-video-api.git",
     "type": "library",
     "authors": [
         {
             "name": "gvp7003",
-            "email": "gvp7003@gmail.com",
-            "homepage": "https://github.com/pintu1234/zoom-video-api.git",
-            "role": "Developer"
+            "email": "gvp7003@gmail.com"
         }
     ],
     "require": {
+        "php": "^5.6|^7.1|^8.0",
         "kreait/firebase-php": "^5.2"
     },
     "autoload": {
